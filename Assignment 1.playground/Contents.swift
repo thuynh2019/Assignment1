@@ -16,6 +16,8 @@ var hobby3 = "going on adventures with my dog"
 
 var hobbies = hobby + ", " + hobby2 + ", and " + hobby3
 
-var bio = "Hello! My name is \(name), and I am \(age) years old. \nI was born in \(birthplace)in the \(birthplace2) junction. \nMy favorite things to do when I actually do have time from school and work are: \n\(hobbies)!"
+var aspirations = "getting a good design job that lets me go home at 5 PM."
+
+var bio = "Hello! My name is \(name), and I am \(age) years old. \nI was born in \(birthplace)in the \(birthplace2) junction. \nMy favorite things to do when I actually do have time from school and work are: \n\(hobbies)!\nMy career aspiration is simply \(aspirations)"
 
 print(bio)
